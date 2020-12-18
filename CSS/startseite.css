@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #4D591B;
+    background-color: #C4D486;
     box-shadow: 2px 2px 5px #6C6C6C;
 }
 
@@ -21,6 +21,33 @@ header {
     justify-content: center;
     margin: 5%;
     box-shadow: 2px 2px 5px #6C6C6C;
+}
+
+.background {
+    opacity: 80%;
+    z-index: 1;
+}
+
+#steinbock {
+    position: absolute;
+    margin-top: 30%;
+}
+
+#dreigestirn {
+    margin-top: 120%;
+    margin-left: -2.5%
+}
+
+#startseite {
+    position: absolute;
+    margin-top: 65%;
+    z-index: 2;
+}
+
+#hasliberg {
+    position: absolute;
+    margin-top: 5%;
+    z-index: 2;
 }
 
 label.toggle {
