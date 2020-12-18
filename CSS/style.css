@@ -1,0 +1,57 @@
+:root {
+    font-family: Roboto Slab, serif;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #A6BF49;
+}
+
+header {
+    background-color: #4D591B;
+    box-shadow: 2px 2px 5px #6C6C6C;
+}
+
+.main-banner-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5%;
+    box-shadow: 2px 2px 5px #6C6C6C;
+}
+
+label.toggle {
+    cursor: pointer;
+}
+
+.toggle {
+    display: none;
+}
+
+#hamburger {
+    margin: 5%;
+}
+
+#menu-toggle:checked ~ .toggle.default-hidden,
+#menu-toggle:checked ~ * .toggle.default-hidden,
+#menu-toggle:not(:checked) ~ .toggle.default-shown,
+#menu-toggle:not(:checked) ~ * .toggle.default-shown {
+    display: block;
+}
+
+h1 {
+    font-family: Euphoria Script, serif;
+    font-size: 40pt;
+    color: #043959;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+h2 {
+    font-size: 20pt;
+    color: #4D591B;
+    text-align: center;
+}
