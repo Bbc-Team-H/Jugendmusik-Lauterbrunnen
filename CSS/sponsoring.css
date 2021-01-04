@@ -41,3 +41,34 @@ label.toggle {
 #menu-toggle:not(:checked) ~ * .toggle.default-shown {
     display: block;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
+
+.sponsors {
+    grid-column: 2 / 2;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 20pt;
+    color: #4D591B;
+    text-align: center;
+    margin-top: 5%;
+}
+
+h2 {
+    font-size: 15pt;
+    color: #4D591B;
+    text-align: center;
+}
+
+p {
+    font-size: 12pt;
+    text-align: center;
+}
