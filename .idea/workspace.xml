@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dreigestirn_links.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dreigestirn_mitte.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dreigestirn_rechts.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bilder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/bilder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/jahresprogramm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geschichte.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jahresprogramm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sponsoring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/startseite.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Steinbock lbr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Steinbock.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <updated>1608208273183</updated>
       <workItem from="1608208274356" duration="10891000" />
       <workItem from="1608274968820" duration="14950000" />
-      <workItem from="1609743602751" duration="10221000" />
+      <workItem from="1609743602751" duration="11179000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -76,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608286157985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="News created">
+      <created>1609755237855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609755237855</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Div. changes">
+      <created>1609755259499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609755259499</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +112,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Homepage created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homepage created" />
+    <MESSAGE value="News created" />
+    <MESSAGE value="Div. changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Div. changes" />
   </component>
 </project>
