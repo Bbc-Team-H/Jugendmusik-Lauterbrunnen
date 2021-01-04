@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/News.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dreigestirn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dreigestirn_links.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dreigestirn_mitte.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dreigestirn_rechts.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/startseite.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Steinbock lbr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Steinbock.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1lmhettYcen5Xlbfc8QfaeA8I1T" />
   <component name="ProjectLevelVcsManager">
@@ -56,8 +66,17 @@
       <option name="presentableId" value="Default" />
       <updated>1608208273183</updated>
       <workItem from="1608208274356" duration="10891000" />
-      <workItem from="1608274968820" duration="10226000" />
+      <workItem from="1608274968820" duration="14950000" />
+      <workItem from="1609743602751" duration="10221000" />
     </task>
+    <task id="LOCAL-00001" summary="Homepage created">
+      <created>1608286157985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608286157985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,8 +92,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Homepage created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage created" />
   </component>
 </project>
