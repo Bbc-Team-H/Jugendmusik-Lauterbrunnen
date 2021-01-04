@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/geschichte.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geschichte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Geschichte.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <updated>1608208273183</updated>
       <workItem from="1608208274356" duration="10891000" />
       <workItem from="1608274968820" duration="14950000" />
-      <workItem from="1609743602751" duration="23565000" />
+      <workItem from="1609743602751" duration="24368000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -120,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609768408600</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Geschichte created">
+      <created>1609772499869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609772499869</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +153,7 @@
     <MESSAGE value="Bilder &amp; Videos Page created" />
     <MESSAGE value="..." />
     <MESSAGE value="Jahresprogramm created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jahresprogramm created" />
+    <MESSAGE value="Geschichte created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Geschichte created" />
   </component>
 </project>
