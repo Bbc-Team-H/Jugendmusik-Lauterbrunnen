@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/CSS/bilder.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/bilder.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/geschichte.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/jahresprogramm.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/jahresprogramm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/sponsoring.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/startseite.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
@@ -74,7 +73,7 @@
       <workItem from="1608208274356" duration="10891000" />
       <workItem from="1608274968820" duration="14950000" />
       <workItem from="1609743602751" duration="26104000" />
-      <workItem from="1609830320284" duration="15968000" />
+      <workItem from="1609830320284" duration="16361000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -237,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609859471756</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Background changed 3">
+      <created>1609860010494</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1609860010494</updated>
+    </task>
+    <task id="LOCAL-00025" summary="default">
+      <created>1609860203963</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1609860203963</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +291,8 @@
     <MESSAGE value="evtl." />
     <MESSAGE value="Changed background" />
     <MESSAGE value="Little Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Little Changes" />
+    <MESSAGE value="Background changed 3" />
+    <MESSAGE value="default" />
+    <option name="LAST_COMMIT_MESSAGE" value="default" />
   </component>
 </project>
