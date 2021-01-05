@@ -1,3 +1,4 @@
+"use strict";
 var months = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
 var n = new Date();
 var y = n.getFullYear();
