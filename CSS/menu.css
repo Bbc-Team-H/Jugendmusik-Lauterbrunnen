@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #A6BF49, #C4D486);
+    background: linear-gradient(to bottom, #A6BF49 0%, #C4D486 50%,  #A6BF49 100%);
 }
 
 svg {
