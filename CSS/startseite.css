@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #A6BF49;
+    background: linear-gradient(to bottom, #A6BF49, #C4D486);
 }
 
 header {
