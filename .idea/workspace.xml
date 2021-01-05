@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/bilder.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/bilder.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/geschichte.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/jahresprogramm.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/jahresprogramm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/sponsoring.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/startseite.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
       <workItem from="1608208274356" duration="10891000" />
       <workItem from="1608274968820" duration="14950000" />
       <workItem from="1609743602751" duration="26104000" />
-      <workItem from="1609830320284" duration="14295000" />
+      <workItem from="1609830320284" duration="15391000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -214,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609857803238</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Changed background">
+      <created>1609858335546</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1609858335546</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +263,7 @@
     <MESSAGE value="Navigation added 2" />
     <MESSAGE value="Menu created" />
     <MESSAGE value="evtl." />
-    <option name="LAST_COMMIT_MESSAGE" value="evtl." />
+    <MESSAGE value="Changed background" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed background" />
   </component>
 </project>

@@ -6,6 +6,10 @@
     margin: 0;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     background: linear-gradient(to bottom, #A6BF49, #C4D486);
 }
