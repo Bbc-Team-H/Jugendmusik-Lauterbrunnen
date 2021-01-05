@@ -6,33 +6,119 @@
           content="width=device-width, initial-scale=1">
     <link href="CSS/sponsoring.css" rel="stylesheet"/>
     <title>
-        Jugendmusik Lauterbrunnen - Bilder & Videos
+        Jugendmusik Lauterbrunnen - Sponsoren
     </title>
 </head>
 <body>
 <header class="row">
     <nav>
-        <input type="checkbox" id="menu-toggle" class="toggle"/>
+        <input
+            type="checkbox"
+            id="menu-toggle"
+            class="toggle"
+        />
+
         <label for="menu-toggle" class="toggle default-shown">
             <img id="hamburger" src="img/hamburger.svg"
-                 alt="Menu"/>
+                 alt="Menu"
+            />
         </label>
     </nav>
 </header>
 
+<section id="title">
+    <h1>
+        Sponsoren
+    </h1>
+</section>
+
 <section class="grid">
-    <article class="sponsors"
-    <img id="sponsor1" src="https://via.placeholder.com/720x420.jpg" width="100%"
-         alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird" />
+    <article class="sponsors">
+        <img class="sponsor" src="https://via.placeholder.com/720x420.jpg" width="60%"
+             alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird"
+        />
 
-    <img id="sponsor2" src="https://via.placeholder.com/720x420.jpg" width="100%"
-         alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird" />
+        <img class="sponsor" src="https://via.placeholder.com/720x420.jpg" width="20%"
+             alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird"
+        />
 
-    <img id="sponsor3" src="https://via.placeholder.com/720x420.jpg" width="100%"
-         alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird" />
+        <img class="sponsor" src="https://via.placeholder.com/720x420.jpg" width="30%"
+             alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird"
+        />
 
-    <img id="sponsor4" src="https://via.placeholder.com/720x420.jpg" width="100%"
-         alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird" />
+        <img class="sponsor" src="https://via.placeholder.com/720x420.jpg" width="50%"
+             alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird"
+        />
+    </article>
+</section>
+<section class="sponsoring">
+    <h2>
+        Sponsoring
+    </h2>
+    <p>
+        Unser Verein wird zum grössten Teil von unseren Sponsoren finanziert. Damit können wir den Nachwuchsmusikern aus dem Lauterbrunnental
+        eine angemessene Ausbildung bieten. Wenn auch Sie einen Beitrag an unser geliebtes Hobby leisten möchten, dann können Sie sich
+        mit dem untenstehenden Formular, E-Mail oder Telefon mit uns in Kontakt treten.
+    </p>
+    <p>
+        <span class="important">
+            Besten Dank für Ihre Unterstützung!
+        </span>
+    </p>
+    <article id="grid">
+        <form class="formular" action="#" method="post">
+            <div>
+                <label for="name">
+                    Name
+                </label>
+            </div>
+            <input
+                id="name"
+                name="name"
+                type="text"
+                required
+            >
+            <div>
+                <label for="name">Vorname</label>
+            </div>
+            <input
+                id="surname"
+                name="surname"
+                type="text"
+                required
+            >
+            <div>
+                <label for="name">E-Mail</label>
+            </div>
+            <input
+                id="email"
+                name="email"
+                type="email"
+                required
+            >
+            <div>
+                <label for="name">Telefonnummer</label>
+            </div>
+            <input
+                id="number"
+                name="number"
+                type="number"
+                required
+            >
+            <div>
+                <label for="name">Kommentar</label>
+            </div>
+            <textarea
+                id="comment"
+                name="comment">
+            </textarea>
+            <input
+                id="submit"
+                type="submit"
+                value="Senden"
+            >
+        </form>
+    </article>
 </section>
 </body>
 </html>

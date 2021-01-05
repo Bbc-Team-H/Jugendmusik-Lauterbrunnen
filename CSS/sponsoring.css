@@ -55,11 +55,52 @@ label.toggle {
     justify-content: space-between;
 }
 
+.sponsor {
+    margin: 5% 0%
+}
+
+.important {
+    font-weight: bold;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
+
+
+
+.formular {
+    grid-column: 2 / 2;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10% auto;
+    height: 570px;
+}
+
+#name, #surname, #email, #number, #comment, #submit{
+    margin: 0 auto 5% auto;
+    padding: 2%;
+    width: 100%;
+}
+
+#comment {
+    height: 40%;
+    margin-bottom: 0;
+}
+
 h1 {
     font-size: 20pt;
     color: #4D591B;
     text-align: center;
     margin-top: 5%;
+}
+
+h2, p {
+    margin: 2% 5%;
+    z-index: 2;
 }
 
 h2 {
