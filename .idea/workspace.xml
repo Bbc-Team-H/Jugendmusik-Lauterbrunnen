@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/sponsoring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/sponsoring.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bilder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geschichte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Geschichte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jahresprogramm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jahresprogramm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sponsoring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sponsoring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -53,6 +59,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WD Jugendmusik Lauterbrunnen\Jugendmusik-Lauterbrunnen\JS" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +74,8 @@
       <updated>1608208273183</updated>
       <workItem from="1608208274356" duration="10891000" />
       <workItem from="1608274968820" duration="14950000" />
-      <workItem from="1609743602751" duration="26051000" />
+      <workItem from="1609743602751" duration="26104000" />
+      <workItem from="1609830320284" duration="13667000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -135,7 +147,56 @@
       <option name="project" value="LOCAL" />
       <updated>1609773131154</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="started sponsoring">
+      <created>1609774664417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609774664417</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Separation of concerns">
+      <created>1609832967621</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609832967621</updated>
+    </task>
+    <task id="LOCAL-00013" summary="use strict">
+      <created>1609833269065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609833269065</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Div. Changes">
+      <created>1609849482443</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849482443</updated>
+    </task>
+    <task id="LOCAL-00015" summary="...">
+      <created>1609849566870</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849566870</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Sponsoring created with formula">
+      <created>1609850209704</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609850209704</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Navigation added">
+      <created>1609857610560</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609857610560</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +222,16 @@
     <MESSAGE value="Pages created" />
     <MESSAGE value="Div Changes" />
     <MESSAGE value="Bilder &amp; Videos Page created" />
-    <MESSAGE value="..." />
     <MESSAGE value="Jahresprogramm created" />
     <MESSAGE value="Geschichte created" />
     <MESSAGE value="Hallo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hallo" />
+    <MESSAGE value="started sponsoring" />
+    <MESSAGE value="Separation of concerns" />
+    <MESSAGE value="use strict" />
+    <MESSAGE value="Div. Changes" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Sponsoring created with formula" />
+    <MESSAGE value="Navigation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navigation added" />
   </component>
 </project>
