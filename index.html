@@ -10,30 +10,48 @@
     </title>
 </head>
 <body>
-<header class="row">
-    <nav onclick="redirect('Menu.html')">
-        <input type="checkbox" id="menu-toggle" class="toggle"/>
-        <label for="menu-toggle" class="toggle default-shown">
-            <img id="hamburger" src="img/hamburger.svg"
-                 alt="Menu"/>
-        </label>
-    </nav>
+<header>
+    <img class="logo" src="https://via.placeholder.com/720x420.jpg"
+         alt="Platzhalter Bild – Ein Bild, dass noch ersetzt wird" />
 </header>
 
-        <div class="master">
-            <img id="hasliberg" src="img/Jugendmusik%20Startseite.png" width="90%"
-                 alt="Jugendmusik in Hasliberg" class="main-banner-img"/>
+    <div class="master">
+        <img id="hasliberg" src="img/Jugendmusik%20Startseite.png" width="90%"
+             alt="Jugendmusik in Hasliberg" class="main-banner-img"/>
 
-            <article id="startseite">
-                <h1>
-                    <span class="main-title">Jugendmusik Lauterbrunnen</span>
-                </h1>
-                <h2>
-                    Herzlich Willkommen
-                </h2>
-            </article>
-        </div>
+        <article id="startseite">
+            <h1>
+                <span class="main-title">Jugendmusik Lauterbrunnen</span>
+            </h1>
+            <h2>
+                Herzlich Willkommen
+            </h2>
+        </article>
+    </div>
+
+    <div id="nav-bg" class="btn"></div>
+    <div id="toggle-btn" class="btn">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <div class="wrapper">
+        <nav>
+            <ul>
+                <li><a href="index.html">Startseite</a></li>
+                <li><a href="Uns.html">Über Uns</a></li>
+                <li><a href="News.html">News</a></li>
+                <li><a href="Jahresprogramm.html">Jahresprogramm</a></li>
+                <li><a href="Bilder.html">Bilder</a></li>
+                <li><a href="Geschichte.html">Geschichte</a></li>
+                <li><a href="#">Ausbildung</a></li>
+                <li><a href="Sponsoring.html">Sponsoring</a></li>
+            </ul>
+        </nav>
+    </div>
 
 </body>
 <script src="JS/main.js"></script>
+<script src="JS/navigation.js"></script>
 </html>
