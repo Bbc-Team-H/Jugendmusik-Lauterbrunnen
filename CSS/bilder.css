@@ -7,31 +7,48 @@
 }
 
 html, body {
+    margin: 0;
+    padding: 0 0 13% 0;
+}
+
+html {
+    width: 100%;
     height: 100%;
+    display: table;
 }
 
 body {
-    background: linear-gradient(to bottom, #A6BF49 0%, #C4D486 50%,  #A6BF49 100%);
+    width: 100%;
+    display: table-cell;
+    background: linear-gradient(to bottom, #A6BF49 0%, #A1BED7 25%,  #A6BF49 75%, #A1BED7 100%);
 }
 
 header {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background: linear-gradient(to bottom, #A6BF49 0%, #C4D486 50%,  #A6BF49 100%);
+    background-image: url("../img/note.jpg");
+    background-position: 0 -70%;
     box-shadow: 2px 2px 5px #6C6C6C;
 }
-
 
 .logo {
     width: 25%;
     margin: 2.5%;
-    box-shadow: 2px 2px 5px #6C6C6C;
+    box-shadow: 4px 4px 5px #A6BF49;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
 }
 
 .images {
     display: grid;
     grid-template-columns: 10% 80% 10%;
+}
+
+.img {
+    margin: 5% 0;
+    box-shadow: 2px 2px 5px #6C6C6C;
 }
 
 article {
@@ -41,7 +58,7 @@ article {
 
 h1 {
     font-size: 7vw;
-    color: #4D591B;
+    color: #043959;
     text-align: center;
     margin-top: 5%;
 }
@@ -78,6 +95,7 @@ NAVIGATION BACKGROUND
     transform: translate(var(--translate-x), var(--translate-y)) scale(var(--scale));
     will-change: transform;
     pointer-events: none;
+    opacity: 95%;
 }
 
 
@@ -90,7 +108,6 @@ BUTTON
     width: calc(var(--btn-size)*1px);
     bottom: calc((var(--offset-value))*1px);
     left: calc(var(--offset-value)*1px);
-    /*left: calc(50% - (var(--btn-size)/2*1px)); if you wish to center it */
     border-radius: 50%;
     background: #fafafa;
     cursor: pointer;
@@ -109,7 +126,6 @@ BUTTON
     justify-content: center;
     align-items: center;
     color: var(--green);
-    /*box-shadow: 0 6px 12px rgba(0,0,0,.1);*/
     transition: transform .3s;
 }
 

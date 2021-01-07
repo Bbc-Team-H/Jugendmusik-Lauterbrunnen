@@ -2,20 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/uns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uns.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/jugendmusik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/lauterbrunnen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mürren.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mürren.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tambouren.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Jugendmusik Startseite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aufbruch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/duett.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/entdecken.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/essen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/jahreskonzert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/massnahmen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/music.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/note.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/solo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/spielen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/valleyhostel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/üben.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bilder.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/bilder.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/bilder.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/geschichte.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/jahresprogramm.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/jahresprogramm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/sponsoring.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/startseite.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/startseite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/uns.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/uns.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Geschichte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Geschichte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jahresprogramm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Jahresprogramm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News.html" beforeDir="false" afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sponsoring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sponsoring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uns.html" beforeDir="false" afterPath="$PROJECT_DIR$/Uns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Jugendmusik Startseite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mürren.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/muerren.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mürren.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +49,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,7 +107,9 @@
       <workItem from="1608274968820" duration="14950000" />
       <workItem from="1609743602751" duration="26104000" />
       <workItem from="1609830320284" duration="16497000" />
-      <workItem from="1609916154298" duration="18126000" />
+      <workItem from="1609916154298" duration="18207000" />
+      <workItem from="1610002352239" duration="14459000" />
+      <workItem from="1610020232786" duration="11911000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -279,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609925298718</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Header and other changes">
+      <created>1609947041163</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1609947041163</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Über uns created">
+      <created>1609947053669</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1609947053669</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,8 +334,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Homepage created" />
-    <MESSAGE value="News created" />
     <MESSAGE value="Div. changes" />
     <MESSAGE value="Pages created" />
     <MESSAGE value="Div Changes" />
@@ -324,6 +357,8 @@
     <MESSAGE value="default" />
     <MESSAGE value="Header changed" />
     <MESSAGE value="Burger-Menu created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Burger-Menu created" />
+    <MESSAGE value="Header and other changes" />
+    <MESSAGE value="Über uns created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Über uns created" />
   </component>
 </project>
