@@ -8,7 +8,7 @@
 
 html, body {
     margin: 0;
-    padding: 0;
+    padding: 0 0 15% 0;
 }
 
 html {
@@ -32,17 +32,21 @@ header {
     box-shadow: 2px 2px 5px #6C6C6C;
 }
 
-footer {
-    align-items: flex-end;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+.mobile {
+    height: 100%;
 }
 
 .start {
-    height: 80%;
-    display: flex;
-    flex-direction: column;
+    height: 100%;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    box-shadow: 2px 2px 5px black;
+    padding: 2.5% 0 5% 0;
+    background: linear-gradient(to bottom, #A6BF49 0%, #A1BED7 25%,  #A6BF49 75%, #A1BED7 100%);
 }
 
 #steinbock {
@@ -71,6 +75,7 @@ footer {
 }
 
 #contact {
+    justify-content: flex-end;
     display: flex;
     flex-direction: row;
     margin: 0 5%;
@@ -94,7 +99,19 @@ h2 {
     text-align: center;
 }
 
-address {
+p {
+    box-shadow: 2px 2px 5px #6C6C6C;
+    font-size: 4vw;
+    text-align: center;
+    margin: 5% 0;
+    padding: 1% 5%;
+}
+
+#welcome {
+    margin-top: 10%;
+}
+
+address, #impressum {
     justify-content: flex-end;
     font-size: 2vw;
     margin-right: 5%;
