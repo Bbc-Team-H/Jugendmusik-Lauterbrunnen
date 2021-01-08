@@ -84,9 +84,11 @@ html {
         margin: 0 5%;
     }
 
-    address, #impressum {
+    address, .impressum {
         justify-content: flex-end;
         font-size: 2vw;
+        font-style: normal;
+        text-decoration: none;
         margin-right: 5%;
     }
 
@@ -446,7 +448,7 @@ html {
         justify-content: space-between;
     }
 
-    address, #impressum, .links {
+    address, .impressum, .links {
         font-size: 80%;
         font-style: normal;
     }
