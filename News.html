@@ -6,17 +6,17 @@
           content="width=device-width, initial-scale=1">
     <link href="CSS/news.css" rel="stylesheet"/>
     <title>
-        Jugendmusik Lauterbrunnen - News
+        Jugendmusik Lauterbrunnen - Aktuell
     </title>
 </head>
 <body>
-<header>
-    <a href="index.html">
-        <img class="logo" src="img/logo.jpg"
-             alt="Das Logo der Jugendmusik Lauterbrunnental" />
-    </a>
-</header>
-
+<div class="mobile">
+    <header>
+        <a href="index.html">
+            <img class="logo" src="img/logo.jpg"
+                 alt="Das Logo der Jugendmusik Lauterbrunnental" />
+        </a>
+    </header>
     <div class="master">
         <article id="title">
             <h1>
@@ -72,26 +72,79 @@
             </ul>
         </nav>
     </div>
-<footer>
-    <article id="contact">
-        <article id="impressum">
-            <a href="impressum.html">Impressum</a>
+    <footer>
+        <article id="contact">
+            <article class="impressum">
+                <a href="impressum.html">Impressum</a>
+            </article>
+            <address>
+                Kontaktieren Sie uns:<br><br>
+                Präsidentin / Dirigentin<br>
+                Ulrike Graf<br>
+                <a href="mailto:u.u.graf@bluewin.ch">u.u.graf@bluewin.ch</a><br>
+                <a href="tel:0794199511">079 419 95 11</a>
+            </address>
+            <address>
+                <br><br>
+                Kassierin<br>
+                Nadine Balmer<br>
+                <a href="mailto:nadinebalmer@gmx.net">nadinebalmer@gmx.net</a>
+            </address>
         </article>
-        <address>
-            Kontaktieren Sie uns:<br><br>
-            Präsidentin / Dirigentin<br>
-            Ulrike Graf<br>
-            <a href="mailto:u.u.graf@bluewin.ch">u.u.graf@bluewin.ch</a><br>
-            <a href="tel:0794199511">079 419 95 11</a>
-        </address>
-        <address>
-            <br><br>
-            Kassierin<br>
-            Nadine Balmer<br>
-            <a href="mailto:nadinebalmer@gmx.net">nadinebalmer@gmx.net</a>
-        </address>
-    </article>
-</footer>
+    </footer>
+</div>
+<div class="desktop">
+    <aside class="sidebar">
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Startseite</a></li>
+                <li><a href="Uns.html">Über Uns</a></li>
+                <li><a href="News.html">Aktuell</a></li>
+                <li><a href="Jahresprogramm.html">Jahresprogramm</a></li>
+                <li><a href="Bilder.html">Bilder</a></li>
+                <li><a href="Geschichte.html">Geschichte</a></li>
+                <li><a href="Sponsoring.html">Sponsoring</a></li>
+            </ul>
+        </nav>
+    </aside>
+
+    <footer>
+        <section>
+            <article class="footer">
+                <article id="impressum">
+                    <a href="impressum.html">Impressum</a>
+                </article>
+                <article class="links">
+                    Links<br>
+                    Musikgesellschaft Lauterbrunnen:<br>
+                    <a href="https://mg-lauterbrunnen.ch/">mg-lauterbrunnen.ch</a><br>
+                    Musikgesellschaft Wengen:<br>
+                    <a href="http://www.mgwengen.ch/">mgwengen.ch</a><br>
+                    Mürren Musig:<br>
+                    <a href="https://www.muerren-musig.ch/">muerren-musig.ch</a>
+                </article>
+                <article>
+                    <img class="logo" src="img/logo.jpg"
+                         alt="Das Logo der Jugendmusik Lauterbrunnen">
+                </article>
+                <address>
+                    Kontaktieren Sie uns:
+                    <br>
+                    Präsidentin / Dirigentin<br>
+                    Ulrike Graf<br>
+                    <a href="mailto:u.u.graf@bluewin.ch">u.u.graf@bluewin.ch</a><br>
+                    <a href="tel:0794199511">079 419 95 11</a>
+                </address>
+                <address>
+                    <br>
+                    Kassierin<br>
+                    Nadine Balmer<br>
+                    <a href="mailto:nadinebalmer@gmx.net">nadinebalmer@gmx.net</a>
+                </address>
+            </article>
+        </section>
+    </footer>
+</div>
 </body>
 <script src="JS/main.js"></script>
 <script src="JS/navigation.js"></script>

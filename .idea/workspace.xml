@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b7ac32-7c27-410f-8875-33f73f73cc39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/impressum.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bilder.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/bilder.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/bilder.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/geschichte.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/geschichte.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/impressum.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/jahresprogramm.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/jahresprogramm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/sponsoring.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sponsoring.css" afterDir="false" />
@@ -17,6 +17,12 @@
       <change beforePath="$PROJECT_DIR$/News.html" beforeDir="false" afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sponsoring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sponsoring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Uns.html" beforeDir="false" afterPath="$PROJECT_DIR$/Uns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Steinbock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dreigestirn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dreigestirn_links.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dreigestirn_mitte.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dreigestirn_rechts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lauterbrunnen.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/lauterbrunnen.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -93,7 +99,7 @@
       <workItem from="1609916154298" duration="18207000" />
       <workItem from="1610002352239" duration="14459000" />
       <workItem from="1610020232786" duration="11945000" />
-      <workItem from="1610089219738" duration="10349000" />
+      <workItem from="1610089219738" duration="26946000" />
     </task>
     <task id="LOCAL-00001" summary="Homepage created">
       <created>1608286157985</created>
@@ -305,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610033590738</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Mobile-Version created">
+      <created>1610099689982</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1610099689982</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +338,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Pages created" />
     <MESSAGE value="Div Changes" />
     <MESSAGE value="Bilder &amp; Videos Page created" />
     <MESSAGE value="Jahresprogramm created" />
@@ -350,6 +362,7 @@
     <MESSAGE value="Header and other changes" />
     <MESSAGE value="Über uns created" />
     <MESSAGE value="Some changes to background and files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some changes to background and files" />
+    <MESSAGE value="Mobile-Version created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mobile-Version created" />
   </component>
 </project>
